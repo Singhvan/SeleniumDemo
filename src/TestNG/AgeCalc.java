@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class AgeCalc {
 	
-	// Some comments here
+	// Some comments here.
   @Test
   public void f() {
   }
